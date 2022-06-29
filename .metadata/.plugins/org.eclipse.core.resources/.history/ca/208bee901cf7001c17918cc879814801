@@ -1,0 +1,5 @@
+package com.ernestocastro.myfirstproject.repositories;
+
+public class CategoryRepository {
+
+}
